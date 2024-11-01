@@ -1,0 +1,8 @@
+{
+  "category": [],
+  "time": [],
+  "numerical": ["max_elevation","min_elevation","uphill","downhill","length_2d"],
+  "lists": ["latitude_diff", "longitude_diff","elevation","Terrain_slope(degrees)","slope(degrees)","cumulative_distance(m)","distance_diff(m)","elevation_diff(m)","velocity(m/s)"],
+  "target": ["travel_time"],
+  "target_lists": ["elapsed_time(s)","time_diff(s)"]
+}
